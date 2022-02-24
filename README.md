@@ -11,7 +11,7 @@ the website, then navigate to https://unknownproject.cf
 **Q:** How can I download the images so I can recode the website or
 change some code etc? 
 
-**A:** Click this link () and download the ".rar" file.
+**A:** Click this link (https://www.dropbox.com/s/s2vxspm4q2vunud/imgs.rar?dl=0) and download the ".rar" file.
 When you do that, be sure to have downloaded all the HTML, CSS and JS
 files.
 After that, open tha "imgs.rar" file and drag the "imgs" folder
